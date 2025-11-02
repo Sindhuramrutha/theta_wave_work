@@ -1,0 +1,9 @@
+{
+  "sync-rsync.remote": "sindhuramrutha@10.24.6.246:/home/sindhuramrutha/theta_wave_work/",
+  "sync-rsync.local": "C:/Users/SINDHU/Documents/theta_wave_work/",
+  "sync-rsync.watch": true,
+  "sync-rsync.uploadOnSave": false,
+  "sync-rsync.downloadOnOpen": false,
+  "sync-rsync.delete": false,
+  "sync-rsync.rsyncOptions": "-az --progress"
+}
